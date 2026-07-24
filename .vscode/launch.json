@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run program",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/dist/program",
+            "cwd": "${workspaceFolder}",
+            "MIMode": "gdb",
+            "preLaunchTask": "make"
+        },
+        {
+            "name": "Debug program",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/dist/program",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "preLaunchTask": "make build"
+        }
+    ]
+}
