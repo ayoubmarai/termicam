@@ -1,0 +1,13 @@
+COLS=125 LINES=35
+cap.read failed
+terminal resized 125x35
+cap.read failed
+terminal resized 156x40
+cap.read failed
+terminal resized 178x47
+cap.read failed
+terminal resized 208x57
+cap.read failed
+terminal resized 250x67
+cap.read failed
+Exited safely
