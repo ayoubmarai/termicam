@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv5 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/src/main.cpp.o -c /home/ayob/projects/ncus/src/main.cpp",
+  "file": "/home/ayob/projects/ncus/src/main.cpp",
+  "output": "CMakeFiles/program.dir/src/main.cpp.o"
+}
+]

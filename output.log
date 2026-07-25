@@ -1,13 +1,103 @@
-COLS=125 LINES=35
-cap.read failed
-terminal resized 125x35
-cap.read failed
-terminal resized 156x40
-cap.read failed
-terminal resized 178x47
-cap.read failed
-terminal resized 208x57
-cap.read failed
-terminal resized 250x67
-cap.read failed
+[1784998242] runningCOLS=125 LINES=35
+Color: 145
+Color: 187
+Color: 151
+Color: 146
+Color: 152
+Color: 188
+Color: 109
+Color: 108
+Color: 102
+Color: 189
+Color: 195
+Color: 194
+Color: 65
+Color: 59
+Color: 16
+Color: 23
+Color: 58
+Color: 22
+Color: 101
+Color: 144
+Color: 52
+Color: 53
+Color: 95
+Color: 137
+Color: 100
+Color: 181
+Color: 143
+Color: 94
+Color: 138
+Color: 89
+Color: 136
+Color: 88
+Color: 131
+Color: 231
+Color: 60
+Color: 103
+Color: 96
+Color: 66
+Color: 182
+Color: 132
+Color: 17
+Color: 180
+Color: 139
+Color: 175
+Color: 174
+Color: 225
+Color: 224
+Color: 142
+Color: 230
+Color: 217
+Color: 107
+Color: 64
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] RESIZED
+Color: 179
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] cap.read failed
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] RESIZED
+Color: 150
+Color: 186
+Color: 192
+Color: 218
+Color: 223
+Color: 54
+Color: 90
+Color: 153
+Color: 147
+Color: 183
+Color: 193
+Color: 24
+Color: 219
+Color: 106
+Color: 168
+Color: 72
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] cap.read failed
+[WARNING] RESIZED
+[WARNING] RESIZED
+[WARNING] RESIZED
+Color: 97
+
 Exited safely
+
