@@ -1,3 +1,0 @@
-/home/ayob/projects/ncus/build/CMakeFiles/program.dir
-/home/ayob/projects/ncus/build/CMakeFiles/edit_cache.dir
-/home/ayob/projects/ncus/build/CMakeFiles/rebuild_cache.dir
