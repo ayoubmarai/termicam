@@ -1,8 +1,62 @@
 [
 {
   "directory": "/home/ayob/projects/ncus/build",
-  "command": "/usr/bin/g++  -isystem /usr/include/opencv5 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/src/main.cpp.o -c /home/ayob/projects/ncus/src/main.cpp",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/src/image.cpp.o -c /home/ayob/projects/ncus/src/image.cpp",
+  "file": "/home/ayob/projects/ncus/src/image.cpp",
+  "output": "CMakeFiles/program.dir/src/image.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/src/main.cpp.o -c /home/ayob/projects/ncus/src/main.cpp",
   "file": "/home/ayob/projects/ncus/src/main.cpp",
   "output": "CMakeFiles/program.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/src/utils.cpp.o -c /home/ayob/projects/ncus/src/utils.cpp",
+  "file": "/home/ayob/projects/ncus/src/utils.cpp",
+  "output": "CMakeFiles/program.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/imgui/imgui.cpp.o -c /home/ayob/projects/ncus/imgui/imgui.cpp",
+  "file": "/home/ayob/projects/ncus/imgui/imgui.cpp",
+  "output": "CMakeFiles/program.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/imgui/imgui_demo.cpp.o -c /home/ayob/projects/ncus/imgui/imgui_demo.cpp",
+  "file": "/home/ayob/projects/ncus/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/program.dir/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/imgui/imgui_draw.cpp.o -c /home/ayob/projects/ncus/imgui/imgui_draw.cpp",
+  "file": "/home/ayob/projects/ncus/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/program.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/imgui/imgui_tables.cpp.o -c /home/ayob/projects/ncus/imgui/imgui_tables.cpp",
+  "file": "/home/ayob/projects/ncus/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/program.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/imgui/imgui_widgets.cpp.o -c /home/ayob/projects/ncus/imgui/imgui_widgets.cpp",
+  "file": "/home/ayob/projects/ncus/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/program.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/imgui/backends/imgui_impl_sdl2.cpp.o -c /home/ayob/projects/ncus/imgui/backends/imgui_impl_sdl2.cpp",
+  "file": "/home/ayob/projects/ncus/imgui/backends/imgui_impl_sdl2.cpp",
+  "output": "CMakeFiles/program.dir/imgui/backends/imgui_impl_sdl2.cpp.o"
+},
+{
+  "directory": "/home/ayob/projects/ncus/build",
+  "command": "/usr/bin/g++  -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2 -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600 -o CMakeFiles/program.dir/imgui/backends/imgui_impl_sdlrenderer2.cpp.o -c /home/ayob/projects/ncus/imgui/backends/imgui_impl_sdlrenderer2.cpp",
+  "file": "/home/ayob/projects/ncus/imgui/backends/imgui_impl_sdlrenderer2.cpp",
+  "output": "CMakeFiles/program.dir/imgui/backends/imgui_impl_sdlrenderer2.cpp.o"
 }
 ]

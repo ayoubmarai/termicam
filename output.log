@@ -1,103 +1,986 @@
-[1784998242] runningCOLS=125 LINES=35
-Color: 145
-Color: 187
-Color: 151
-Color: 146
-Color: 152
-Color: 188
-Color: 109
-Color: 108
+[1785693599] runningCOLS=125 LINES=35
+RECIEVED THIS MESSAGE FROM PIPE: 67
+Delta=0.597209
+Color: 16
+Color: 17
+Color: 53
+Color: 52
+Color: 59
+Delta=0.093085
+Delta=0.099750
+Delta=0.100308
+Delta=0.099813
+Delta=0.103908
+Delta=0.100207
+Delta=0.099470
+Delta=0.099884
+Delta=0.099886
+Delta=0.100245
+Delta=0.099616
+Delta=0.100020
+Delta=0.100385
+Delta=0.099319
+Delta=0.100292
+Delta=0.099774
+Delta=0.099633
+Delta=0.100337
+Delta=0.099772
+Delta=0.099981
+Delta=0.099697
+Delta=0.100393
+Delta=0.099846
+Delta=0.099700
+Delta=0.100183
+Delta=0.099760
+Delta=0.099823
+Delta=0.103980
+Delta=0.099995
+Delta=0.099173
+Delta=0.099832
+Delta=0.100094
+Delta=0.099434
+Delta=0.100201
+Delta=0.099965
+Delta=0.100089
+Delta=0.099991
+Delta=0.099729
+Delta=0.100188
+Delta=0.099922
+Delta=0.100055
+Delta=0.099645
+Delta=0.099834
+Delta=0.100237
+Delta=0.099808
+Delta=0.099804
+Delta=0.099955
+Delta=0.099952
+Delta=0.099705
+Delta=0.104078
+Delta=0.100001
+Delta=0.099594
+Delta=0.100177
+Delta=0.099825
+Delta=0.099986
+Delta=0.099748
+Delta=0.100056
+Delta=0.099869
+Delta=0.100172
+Delta=0.099739
+Delta=0.099948
+Delta=0.099964
+Delta=0.100003
+[WARNING] cap.read failedDelta=0.101063
+[WARNING] RESIZED
+Delta=0.099149
+Delta=0.099739
+Delta=0.099837
+Delta=0.100089
+Delta=0.100278
+[WARNING] cap.read failedDelta=0.099909
+[WARNING] RESIZED
+Delta=0.099656
+[WARNING] cap.read failedDelta=0.100484
+[WARNING] RESIZED
+Delta=0.103622
+Delta=0.100106
+Delta=0.099782
+Delta=0.099715
+Delta=0.099865
+[WARNING] cap.read failedDelta=0.100383
+[WARNING] RESIZED
+Delta=0.099956
+[WARNING] cap.read failedDelta=0.099887
+[WARNING] RESIZED
+[WARNING] cap.read failedDelta=0.100433
+[WARNING] RESIZED
+Delta=0.099311
+Delta=0.099961
+Delta=0.099956
+Delta=0.099898
+Delta=0.099826
+[WARNING] cap.read failedDelta=0.100314
+[WARNING] RESIZED
+Delta=0.099875
+Delta=0.099914
+Delta=0.099741
+Color: 23
+Delta=0.100016
+Delta=0.100167
+Delta=0.099714
+Delta=0.100259
+Delta=0.103568
+[WARNING] cap.read failedDelta=0.100137
+[WARNING] RESIZED
+Delta=0.100035
+Delta=0.099678
+Delta=0.100161
+Delta=0.099923
+Delta=0.100039
+Delta=0.099624
+Delta=0.100145
+Delta=0.100080
+Delta=0.099900
+Delta=0.099695
+Color: 58
+Delta=0.100022
+Delta=0.100057
+Delta=0.099982
+Delta=0.099771
+Delta=0.100079
+Delta=0.099854
+Delta=0.099778
+Delta=0.100244
+Delta=0.099691
+Delta=0.100107
+Delta=0.104034
+Delta=0.100054
+Delta=0.099913
+Delta=0.099974
+Delta=0.099694
+Delta=0.099971
+Delta=0.099977
+Delta=0.100060
+Delta=0.099859
+Delta=0.099842
+Delta=0.100008
+Color: 60
+Color: 96
 Color: 102
+Color: 95
+Color: 103
+Color: 139
+Color: 145
+Color: 66
+Color: 24
+Color: 109
+Color: 146
+Color: 67
+Color: 110
+Color: 152
+Color: 104
+Color: 153
 Color: 189
 Color: 195
-Color: 194
-Color: 65
-Color: 59
-Color: 16
-Color: 23
-Color: 58
-Color: 22
-Color: 101
-Color: 144
-Color: 52
-Color: 53
-Color: 95
-Color: 137
-Color: 100
-Color: 181
-Color: 143
-Color: 94
-Color: 138
-Color: 89
-Color: 136
-Color: 88
-Color: 131
 Color: 231
-Color: 60
-Color: 103
-Color: 96
-Color: 66
+Delta=0.099966
+Color: 22
+Color: 188
+Delta=0.100202
 Color: 182
-Color: 132
-Color: 17
-Color: 180
-Color: 139
-Color: 175
-Color: 174
+Color: 140
+Delta=0.099756
 Color: 225
-Color: 224
-Color: 142
-Color: 230
-Color: 217
-Color: 107
-Color: 64
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] RESIZED
-Color: 179
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] cap.read failed
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] RESIZED
-Color: 150
-Color: 186
-Color: 192
-Color: 218
-Color: 223
-Color: 54
-Color: 90
-Color: 153
-Color: 147
 Color: 183
-Color: 193
-Color: 24
+Delta=0.099926
+Color: 159
+Color: 147
+Color: 18
 Color: 219
-Color: 106
-Color: 168
-Color: 72
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] cap.read failed
-[WARNING] RESIZED
-[WARNING] RESIZED
-[WARNING] RESIZED
+Color: 218
+Color: 224
+Color: 181
+Color: 54
+Color: 89
+Color: 132
 Color: 97
-
-Exited safely
-
+Color: 90
+Color: 131
+Color: 138
+Color: 176
+Color: 175
+Color: 212
+Color: 177
+Color: 133
+Color: 111
+Color: 61
+Delta=0.100100
+Color: 117
+Color: 68
+Color: 88
+Delta=0.099845
+Color: 141
+Color: 105
+Delta=0.068108
+Color: 74
+Color: 25
+Delta=0.068046
+Color: 73
+Color: 30
+Color: 31
+Delta=0.064021
+Color: 144
+Delta=0.067771
+Color: 116
+Delta=0.067972
+Delta=0.063857
+Delta=0.067943
+Delta=0.067801
+Delta=0.064140
+Delta=0.067847
+Color: 101
+Delta=0.067864
+Delta=0.064030
+Delta=0.067916
+Color: 137
+Delta=0.067929
+Color: 217
+Color: 223
+Color: 187
+Color: 94
+Color: 124
+Color: 125
+Delta=0.063968
+Color: 180
+Color: 230
+Color: 174
+Delta=0.067962
+Color: 108
+Color: 126
+Delta=0.067892
+Color: 65
+Color: 168
+Delta=0.099789
+Delta=0.099961
+Delta=0.099871
+Color: 211
+Delta=0.099940
+Color: 210
+Delta=0.099978
+Color: 130
+Color: 167
+Delta=0.100126
+Delta=0.099756
+Color: 151
+Color: 161
+Delta=0.100063
+Color: 204
+Delta=0.099923
+Color: 194
+Color: 162
+Delta=0.099963
+Color: 100
+Color: 205
+Color: 169
+Delta=0.099886
+Delta=0.100029
+Color: 229
+Delta=0.100044
+Delta=0.099778
+Delta=0.100260
+Delta=0.099796
+Delta=0.099901
+Delta=0.100197
+Delta=0.067986
+Delta=0.067784
+Delta=0.063990
+Delta=0.067956
+Delta=0.067776
+Color: 143
+Delta=0.099880
+Delta=0.100125
+Delta=0.099745
+Delta=0.100123
+Delta=0.099659
+Delta=0.100137
+Delta=0.099965
+Delta=0.099925
+Delta=0.100045
+Delta=0.100039
+Color: 19
+Color: 55
+Delta=0.099715
+Color: 20
+Delta=0.100063
+Delta=0.068172
+Delta=0.067819
+Delta=0.064159
+Delta=0.067892
+Delta=0.067938
+Delta=0.063868
+Delta=0.067905
+Delta=0.067767
+Delta=0.064033
+Delta=0.067922
+Delta=0.067934
+Delta=0.064174
+Delta=0.067944
+Delta=0.067872
+Delta=0.063983
+Delta=0.067882
+Delta=0.067932
+Delta=0.063896
+Delta=0.067928
+Delta=0.099866
+Delta=0.099977
+Delta=0.099935
+Delta=0.099925
+Delta=0.100047
+Delta=0.100061
+Delta=0.067935
+Delta=0.063989
+Delta=0.067989
+Delta=0.067932
+Delta=0.063876
+Delta=0.067985
+Delta=0.067925
+Delta=0.063959
+Delta=0.067750
+Delta=0.068199
+Delta=0.064000
+Delta=0.067766
+Delta=0.068111
+Delta=0.063982
+Delta=0.067833
+Delta=0.067923
+Delta=0.064024
+Delta=0.068066
+Delta=0.067862
+Delta=0.063809
+Delta=0.068194
+Delta=0.067803
+Delta=0.063965
+Delta=0.067842
+Delta=0.067904
+Delta=0.063981
+Delta=0.068032
+Delta=0.067827
+Delta=0.064299
+Delta=0.067803
+Delta=0.067792
+Delta=0.063923
+Delta=0.068069
+Delta=0.067880
+Delta=0.064097
+Delta=0.067896
+Delta=0.067845
+Delta=0.063955
+Delta=0.067787
+Delta=0.067923
+Delta=0.063906
+Delta=0.068054
+Delta=0.067965
+Delta=0.063926
+Delta=0.068043
+Delta=0.067919
+Delta=0.063995
+Delta=0.067805
+Delta=0.068021
+Delta=0.064186
+Delta=0.067580
+Delta=0.068123
+Delta=0.063834
+Delta=0.068015
+Delta=0.067905
+Delta=0.064019
+Delta=0.068026
+Delta=0.067855
+Delta=0.063830
+Delta=0.068057
+Delta=0.067994
+Delta=0.064140
+Delta=0.068068
+Delta=0.067596
+Delta=0.064032
+Delta=0.067933
+Delta=0.067963
+Delta=0.063923
+Delta=0.067906
+Delta=0.067858
+Delta=0.063961
+Delta=0.067993
+Delta=0.068022
+Delta=0.063853
+Delta=0.067954
+Color: 64
+Delta=0.068021
+Delta=0.063958
+Delta=0.068011
+Delta=0.067897
+Delta=0.063910
+Delta=0.068061
+Delta=0.067867
+Delta=0.063999
+Delta=0.067861
+Delta=0.067875
+Delta=0.068007
+Delta=0.064064
+Delta=0.067759
+Delta=0.067975
+Delta=0.063997
+Delta=0.067961
+Delta=0.067840
+Delta=0.064120
+Delta=0.067780
+Delta=0.067941
+Delta=0.064048
+Delta=0.068033
+Delta=0.067519
+Delta=0.064312
+Delta=0.067849
+Delta=0.067923
+Delta=0.063956
+Delta=0.068093
+Delta=0.067767
+Delta=0.064018
+Delta=0.067889
+Delta=0.067931
+Delta=0.064005
+Delta=0.068045
+Delta=0.067841
+Delta=0.063892
+Delta=0.067991
+Delta=0.068059
+Delta=0.063786
+Delta=0.068060
+Delta=0.068010
+Delta=0.063680
+Delta=0.068148
+Delta=0.068020
+Delta=0.063880
+Delta=0.067955
+Delta=0.067922
+Delta=0.063912
+Delta=0.099724
+Delta=0.100111
+Delta=0.099988
+Delta=0.099949
+Delta=0.099910
+Delta=0.100068
+Delta=0.099846
+Delta=0.103998
+Delta=0.099792
+Delta=0.099904
+Delta=0.100119
+[WARNING] cap.read failedDelta=0.100006
+[WARNING] RESIZED
+Delta=0.099939
+[WARNING] cap.read failedDelta=0.099951
+[WARNING] RESIZED
+Delta=0.100172
+[WARNING] cap.read failedDelta=0.100098
+[WARNING] RESIZED
+Delta=0.099987
+Delta=0.100268
+[WARNING] RESIZED
+Delta=0.116962
+Delta=0.120664
+Delta=0.122603
+Delta=0.121740
+Delta=0.113524
+Delta=0.127680
+Delta=0.122295
+Delta=0.118028
+Delta=0.120805
+Delta=0.114201
+Delta=0.106635
+Delta=0.115350
+Delta=0.107161
+Delta=0.107484
+Delta=0.106259
+Delta=0.113268
+Delta=0.117275
+Delta=0.112369
+Delta=0.139560
+Delta=0.136771
+Delta=0.145081
+Color: 173
+Delta=0.152925
+Delta=0.195876
+Color: 216
+Delta=0.162970
+Delta=0.153277
+Delta=0.161976
+Delta=0.137540
+Delta=0.129269
+Delta=0.148397
+Delta=0.149203
+Delta=0.144937
+Delta=0.161371
+Delta=0.170123
+Delta=0.155405
+Delta=0.160605
+Color: 107
+Delta=0.171324
+Delta=0.156040
+Delta=0.156679
+Delta=0.164824
+Delta=0.156476
+Delta=0.156656
+Delta=0.164432
+Delta=0.149478
+Delta=0.156199
+Delta=0.153688
+Delta=0.155164
+Delta=0.151687
+Delta=0.155230
+Delta=0.159389
+Delta=0.151320
+Delta=0.156697
+Delta=0.159072
+Delta=0.155561
+Delta=0.158986
+Delta=0.170090
+Delta=0.161993
+Delta=0.150264
+Delta=0.163961
+Delta=0.153934
+Delta=0.158475
+Delta=0.154618
+Delta=0.157959
+Delta=0.155079
+Delta=0.160139
+Delta=0.157967
+Delta=0.160026
+Delta=0.159884
+Delta=0.165750
+Delta=0.154707
+Delta=0.162733
+Delta=0.159475
+Delta=0.157162
+Delta=0.165772
+Delta=0.153206
+Delta=0.162319
+Delta=0.152221
+Delta=0.140562
+Delta=0.131240
+Delta=0.121539
+Delta=0.123471
+Delta=0.117548
+Delta=0.129204
+Delta=0.133749
+Delta=0.126904
+Delta=0.134403
+[WARNING] RESIZED
+Delta=0.142967
+Delta=0.045296
+Delta=0.052764
+Delta=0.053291
+Delta=0.052814
+Delta=0.044706
+Delta=0.049777
+Delta=0.058356
+Delta=0.099787
+Delta=0.100132
+Delta=0.100151
+Delta=0.103474
+Delta=0.100032
+Delta=0.099936
+Delta=0.099897
+Delta=0.100228
+Delta=0.100005
+Delta=0.099663
+Delta=0.099754
+Delta=0.099987
+Delta=0.100276
+Delta=0.099853
+Delta=0.099842
+Delta=0.100195
+Delta=0.099888
+Delta=0.099641
+Delta=0.100118
+Delta=0.100077
+Delta=0.099922
+Delta=0.100027
+Delta=0.099687
+Delta=0.100063
+Delta=0.100220
+Delta=0.067659
+Delta=0.068015
+Delta=0.064133
+Delta=0.067602
+Delta=0.068123
+Delta=0.063856
+Delta=0.067862
+Delta=0.068011
+Delta=0.064029
+Delta=0.067767
+Delta=0.067887
+Delta=0.064313
+Delta=0.067754
+Delta=0.067990
+Delta=0.063743
+Delta=0.071056
+Delta=0.067059
+Delta=0.062937
+Delta=0.067276
+Delta=0.067508
+Delta=0.064398
+Delta=0.067653
+Delta=0.067540
+Delta=0.064166
+Delta=0.067874
+Delta=0.068232
+Delta=0.063755
+Delta=0.068185
+Delta=0.067695
+Delta=0.063978
+Delta=0.068064
+Delta=0.067899
+Delta=0.063901
+Delta=0.067994
+Delta=0.067966
+Delta=0.064446
+Delta=0.067543
+Delta=0.067818
+Delta=0.063936
+Delta=0.067940
+Delta=0.067926
+Delta=0.064180
+Delta=0.071840
+Delta=0.064398
+Delta=0.063454
+Delta=0.068164
+Delta=0.067920
+Delta=0.063900
+Delta=0.067653
+Delta=0.068094
+Delta=0.063967
+Delta=0.067754
+Delta=0.068072
+Delta=0.063894
+Delta=0.067937
+Delta=0.068005
+Delta=0.063915
+Delta=0.068053
+Delta=0.068150
+Delta=0.073273
+Delta=0.085651
+Delta=0.070051
+Delta=0.064089
+Delta=0.061855
+Delta=0.060696
+Delta=0.060669
+Delta=0.061173
+Delta=0.061670
+Delta=0.069924
+Delta=0.062040
+Delta=0.067808
+Delta=0.064004
+Delta=0.068211
+Delta=0.067766
+Delta=0.063931
+Delta=0.067851
+Delta=0.068027
+Delta=0.064017
+Delta=0.067745
+Delta=0.067948
+Delta=0.064045
+Delta=0.067875
+Delta=0.068115
+Delta=0.065580
+Delta=0.066502
+Delta=0.067626
+Delta=0.063778
+Delta=0.068013
+Delta=0.068060
+Delta=0.063969
+Delta=0.067835
+Delta=0.067948
+Delta=0.064104
+Delta=0.067821
+Delta=0.067992
+Delta=0.064245
+Delta=0.067728
+Delta=0.067819
+Delta=0.064083
+Delta=0.067862
+Delta=0.067807
+Delta=0.064099
+Delta=0.067898
+Delta=0.069511
+Delta=0.062265
+Delta=0.068048
+Delta=0.067999
+Delta=0.063966
+Delta=0.067908
+Delta=0.067819
+Delta=0.063888
+Delta=0.068126
+Delta=0.067790
+Delta=0.064515
+Delta=0.067424
+Delta=0.067945
+Delta=0.063851
+Delta=0.068085
+Delta=0.067894
+Delta=0.064005
+Delta=0.067919
+Delta=0.067712
+Delta=0.064513
+Delta=0.067655
+Delta=0.068012
+Delta=0.064010
+Delta=0.099673
+Delta=0.103753
+Delta=0.100126
+Delta=0.099992
+Delta=0.099971
+Delta=0.099957
+Delta=0.099862
+Delta=0.099938
+Delta=0.099987
+Delta=0.100152
+Delta=0.099765
+Delta=0.100001
+Delta=0.099981
+Delta=0.099946
+Delta=0.099951
+Delta=0.100013
+Delta=0.099940
+Delta=0.099817
+Delta=0.099876
+Delta=0.100332
+Delta=0.099577
+[WARNING] cap.read failedDelta=0.099926
+[WARNING] RESIZED
+Delta=0.100720
+Delta=0.103677
+Delta=0.099975
+Delta=0.099865
+Delta=0.099676
+Delta=0.100075
+Delta=0.099875
+Delta=0.100035
+Delta=0.100287
+Delta=0.099725
+Delta=0.099807
+Delta=0.099986
+Delta=0.099914
+Delta=0.100384
+Delta=0.099790
+Delta=0.099656
+Delta=0.099936
+Delta=0.100435
+Delta=0.099500
+Delta=0.100091
+Delta=0.099867
+Delta=0.099835
+Delta=0.100109
+Delta=0.100477
+Delta=0.103174
+Delta=0.100014
+Delta=0.101494
+Delta=0.110079
+Delta=0.094427
+Delta=0.099539
+Delta=0.105322
+Delta=0.093726
+Delta=0.089560
+Delta=0.107046
+Delta=0.094068
+Delta=0.103320
+Delta=0.106470
+Delta=0.098413
+Delta=0.104622
+Delta=0.107693
+Delta=0.104153
+Delta=0.102715
+Delta=0.110675
+Delta=0.114795
+Delta=0.115978
+Delta=0.113338
+Delta=0.113010
+Delta=0.115644
+Delta=0.107818
+Delta=0.108366
+Delta=0.108805
+Delta=0.118726
+Delta=0.110323
+Delta=0.110079
+Delta=0.107181
+Delta=0.111770
+Delta=0.119027
+Delta=0.109370
+Delta=0.111354
+Delta=0.114652
+Delta=0.114962
+Delta=0.108899
+Delta=0.113951
+Delta=0.113294
+Delta=0.113491
+Delta=0.112524
+Delta=0.113805
+Delta=0.115423
+Delta=0.120343
+Delta=0.115449
+Delta=0.115345
+Delta=0.111488
+Delta=0.110705
+Delta=0.120725
+Delta=0.106837
+Delta=0.109860
+Delta=0.102800
+Delta=0.103648
+Delta=0.098077
+Delta=0.083891
+Delta=0.086384
+Delta=0.091500
+Delta=0.088374
+Delta=0.095846
+Delta=0.089649
+Delta=0.091522
+Delta=0.082601
+Delta=0.086738
+Delta=0.084416
+[WARNING] RESIZED
+Delta=0.187269
+Delta=0.218139
+Delta=0.221667
+Delta=0.216500
+Delta=0.205374
+Delta=0.220321
+Delta=0.232520
+[WARNING] RESIZED
+Delta=0.228673
+Delta=0.037113
+Delta=0.042603
+Delta=0.038294
+Delta=0.040153
+Delta=0.033203
+Delta=0.063311
+Delta=0.099961
+Delta=0.099773
+Delta=0.099994
+Delta=0.099804
+Delta=0.103873
+Delta=0.100028
+Delta=0.099868
+Delta=0.100232
+Delta=0.099670
+Delta=0.100223
+Delta=0.099886
+Delta=0.099817
+Delta=0.099953
+Delta=0.100051
+Delta=0.099926
+Delta=0.099688
+Delta=0.099992
+Delta=0.099919
+Delta=0.099944
+Delta=0.100268
+Delta=0.067716
+Delta=0.068148
+Delta=0.063903
+Delta=0.067913
+Delta=0.067936
+Delta=0.064121
+Delta=0.067708
+Delta=0.067955
+Delta=0.063915
+Delta=0.067904
+Delta=0.067925
+Delta=0.063990
+Delta=0.068148
+Delta=0.067627
+Delta=0.064202
+Delta=0.067814
+Delta=0.068079
+Delta=0.063862
+Delta=0.067919
+Delta=0.067924
+Delta=0.064077
+Delta=0.067857
+Delta=0.068130
+Delta=0.064080
+Delta=0.067606
+Delta=0.068167
+Delta=0.063752
+Delta=0.068035
+Delta=0.067800
+Delta=0.064259
+Delta=0.067692
+Delta=0.068137
+Delta=0.063644
+Delta=0.068057
+Delta=0.067888
+Delta=0.064019
+Delta=0.067760
+Delta=0.068054
+Delta=0.063973
+Delta=0.067855
+Delta=0.067865
+Delta=0.064161
+Delta=0.067872
+Delta=0.067828
+Delta=0.063947
+Delta=0.067992
+Delta=0.067947
+Delta=0.064572
+Delta=0.067282
+Delta=0.067993
+Delta=0.063869
+Delta=0.068023
+Delta=0.068078
+Delta=0.063990
+Delta=0.067746
+Delta=0.067991
+Delta=0.064000
+Delta=0.067827
+Delta=0.067902
+Delta=0.064136
+Delta=0.067767
+Delta=0.067925
+Delta=0.064074
+Delta=0.067695
+Delta=0.068102
+Delta=0.063858
+Delta=0.067899
+Delta=0.068158
+Delta=0.063835
+Delta=0.067901
+Delta=0.068083
+Delta=0.063925
+Delta=0.067859
+Delta=0.067942
+Delta=0.063996
+Delta=0.067836
+Delta=0.067999
+Delta=0.063891
+Delta=0.068302
+Delta=0.067615
+Delta=0.063935
+Delta=0.067971
+Delta=0.067872
+Delta=0.064032
+Delta=0.067817
+Delta=0.067995
+Delta=0.064046
+Delta=0.068027
+Delta=0.067722
+Delta=0.064203
+Delta=0.067769
+Delta=0.067896
+Delta=0.064200
+Delta=0.067948
+Delta=0.067831
+Delta=0.064091
+Delta=0.067741
+Delta=0.067781
+Delta=0.099901
+Delta=0.099890
+Delta=0.099684
+Delta=0.100540
+Delta=0.099614
+Delta=0.099975
+Delta=0.099998
+Delta=0.099904
+Delta=0.100058
+Delta=0.099950
+Delta=0.099831
+Delta=0.099873
+Delta=0.099792
+Delta=0.100046
+Delta=0.100165
+Delta=0.099708
+Delta=0.100067
+Delta=0.099954
+Delta=0.099759
+Delta=0.100150
+Delta=0.099842
+Delta=0.103729
+Delta=0.100253
+Delta=0.100034
+Delta=0.099679
+Delta=0.100203
+Delta=0.099768
+Delta=0.100373

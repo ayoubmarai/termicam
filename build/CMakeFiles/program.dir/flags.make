@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /usr/include/opencv5
+CXX_INCLUDES = -I/home/ayob/projects/ncus/include -I/home/ayob/projects/ncus/imgui/backends -I/home/ayob/projects/ncus/imgui -isystem /usr/include/opencv5 -isystem /usr/include/SDL2
 
 CXX_FLAGS = -g -std=gnu++17 -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600
 
