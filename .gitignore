@@ -3,3 +3,5 @@ imgui
 build
 dist
 .vscode
+output.log
+signal.log
