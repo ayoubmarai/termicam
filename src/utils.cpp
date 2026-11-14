@@ -7,7 +7,6 @@
 
 #include "utils.hpp"
 
-
 namespace Signals
 {
     volatile sig_atomic_t running = 1;
@@ -29,8 +28,14 @@ namespace Signals
     }
 }
 
-void stopwatch(SharedState* state, std::chrono::_V2::steady_clock::time_point start, const char *msg)
+void stopwatch(SharedState *state, std::chrono::_V2::steady_clock::time_point start, const char *msg)
 {
     float duration = std::chrono::duration<float>(chrono_clock::now() - start).count();
     DEBUG_PRINT(state->debug, "%s took %fs\n", msg, duration);
+}
+
+const char *timestamp()
+{
+    auto now = std::chrono::zoned_time{std::chrono::current_zone(), std::chrono::floor<std::chrono::seconds>(std::chrono::system_clock::now())};
+    return std::format("{:%H:%M:%S}", now).c_str();
 }

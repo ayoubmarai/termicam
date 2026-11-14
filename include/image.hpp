@@ -4,13 +4,21 @@
 
 class FrameProcessor
 {
+public:
+    void process_frame(cv::Mat frame);
+    void show();
+    void clearCache();
 
-    cv::Mat process_frame(cv::Mat frame, SharedState *state);
+    SharedState *state;
+    float bright_brightness = 1.2;
+    float bright_saturation = .7;
+
+    float resized_brightness = 1;
+    float resized_saturation = 1.0;
 
 private:
     cv::Mat resizedFrame;
     cv::Mat gray;
-    cv::Mat display;
     cv::Mat bright_frame;
     cv::Mat hsv_frame;
 };

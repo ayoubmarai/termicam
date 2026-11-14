@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(program LANGUAGES CXX)
+project(termicam LANGUAGES CXX)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
@@ -36,15 +36,18 @@ find_package(OpenCV REQUIRED COMPONENTS
 pkg_check_modules(NCURSES REQUIRED ncurses)
 
 
-add_executable(program
-    ${SRCS}
+add_executable(termicam
     ${HEADERS}
     ${IMGUISRCS}
     imgui/backends/imgui_impl_sdl2.cpp
     imgui/backends/imgui_impl_sdlrenderer2.cpp
+    src/n_render.cpp
+    src/image.cpp
+    src/utils.cpp
+    src/main.cpp
 )
 
-target_include_directories(program PRIVATE
+target_include_directories(termicam PRIVATE
     ${OpenCV_INCLUDE_DIRS}
     ${NCURSES_INCLUDE_DIRS}
     "include"
@@ -52,13 +55,13 @@ target_include_directories(program PRIVATE
     "imgui"
 )
 
-target_link_libraries(program PRIVATE
+target_link_libraries(termicam PRIVATE
     ${OpenCV_LIBS}
     ${NCURSES_LIBRARIES}
     SDL2::SDL2
     SDL2::SDL2main
 )
 
-target_compile_options(program PRIVATE
+target_compile_options(termicam PRIVATE
     ${NCURSES_CFLAGS_OTHER}
 )
